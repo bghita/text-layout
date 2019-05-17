@@ -1,0 +1,23 @@
+.blue{
+    background-color: blue
+}
+.green{
+    background-color: green
+}
+.purple{
+    background-color: purple
+}
+.heading{
+    width:60%;
+    left:auto;
+    right:auto;
+    height: 50px;
+}
+.name{
+    margin-left: 50px;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    overflow: hidden;
+}
+.user{
+    text-align: right;
+}
